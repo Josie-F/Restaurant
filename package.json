@@ -1,0 +1,15 @@
+{
+  "name": "restaurantwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Item.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "test:report": "jest --coverage=true"
+  },
+  "author": "Josie-f",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
